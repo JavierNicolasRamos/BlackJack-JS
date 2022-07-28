@@ -92,7 +92,7 @@
             else {
                 alert('Computadora gana');
             }
-        }, 20);
+        }, 100);
 
     }
 
